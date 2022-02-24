@@ -17,5 +17,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rebin23-sj.rebin23-sj)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+<p></p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rebin23-sj.rebin23-sj)

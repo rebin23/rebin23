@@ -17,8 +17,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rebin23-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin23-sj&hide=TeX&layout=compact)
-
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff);
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rebin23-sj.rebin23-sj)

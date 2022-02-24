@@ -4,7 +4,6 @@
 </p>
 <p>Hi my name rebin</p>
 <h3>I have experience in</h3>
-**Languages and Tools:** 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;

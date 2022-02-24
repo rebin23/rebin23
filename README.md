@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="coding.gif" width="500" />
+  <img src="coding.gif" width="600" />
 </p>
 <p>Hi my name rebin</p>
 <h3>I have experience in</h3>

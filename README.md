@@ -17,5 +17,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![font-awesome](https://img.shields.io/badge/-font-awesome-black?logo=font-awesomet&style=font-awesome)&nbsp;&nbsp;
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rebin23-sj.rebin23-sj)

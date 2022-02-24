@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="https://i.gifer.com/Bm7H.gif" width="400" />
+  <img src="Bm7H.gif" width="400" />
 </p>
 
 <div align="center"> 
